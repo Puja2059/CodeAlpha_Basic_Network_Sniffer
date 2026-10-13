@@ -209,7 +209,7 @@ Packet capture runs in a background thread while captured packets are passed thr
 
 ```powershell
 git clone https://github.com/Puja2059/Basic_Network_Sniffer.git
-cd Basic_Network_Sniffer
+cd CodeAlpha_Basic_Network_Sniffer
 ```
 
 ### 2. Create a Virtual Environment
