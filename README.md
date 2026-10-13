@@ -418,16 +418,4 @@ Computer Engineering | Cybersecurity & Network Security
 
 GitHub: https://github.com/Puja2059
 
-Project Repository: https://github.com/Puja2059/Basic_Network_Sniffer
-
----
-
-## Disclaimer
-
-This project is intended for educational, defensive, and authorized network-monitoring purposes only. Do not capture or inspect network traffic without appropriate authorization.
-
----
-
-## License
-
-Refer to the repository's license file, if present, for the applicable terms of use.
+Project Repository: https://github.com/Puja2059/CodeAlpha_tasks
