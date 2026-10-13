@@ -208,7 +208,7 @@ Packet capture runs in a background thread while captured packets are passed thr
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/Puja2059/Basic_Network_Sniffer.git
+git clone https://github.com/Puja2059/CodeAlpha_Basic_Network_Sniffer.git
 cd CodeAlpha_Basic_Network_Sniffer
 ```
 
